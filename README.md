@@ -7,31 +7,6 @@ Sou um desenvolvedor Javascript :computer:
  
  <br/> &nbsp;
  
- Tenho me dedicado a estudar:
-- Javascript;
-- Typescript;
-- ReactJS e React Native;
-- Desenvolvimento de websites e sistemas para web;
-- Desenvolvimento de aplicativos mobile;
-- Consumo de APIs REST;
-- Versionamento de código com Git, Github e Bitbucket;
-- Organização, limpeza e legibilidade de código;
-
-Tenho experiência profissional com as seguintes tecnologias:
-- HTML;
-- CSS;
-- Javascript;
-- Typescript;
-- ReactJS;
-- React Native;
-- NodeJs e Express;
-- Git, Github e Bitbucket;
-- Docker;
-- Banco de dados SQLite;
-- Tecnologias para trabalho em equipe, como Trello e Jira. 
-
-<br/> 
-
 <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
 <br/> 
 <br/> 💬  &nbsp; Sobre mim: Após 10 anos atuando como professor de Direito e Ciências Humanas em universidades e escolas decidi, no ano de 2019, mudar de carreira. Desde então, a programação web passou a ser parte da minha vida.
