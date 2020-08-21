@@ -1,14 +1,9 @@
 ## Bem-vindo ao meu Github!! 👋
-Sou um desenvolvedor Javascript :computer:
-
+Sou desenvolvedor Javascript :computer:
 
 <br/> &nbsp; Busco trabalhar como desenvolvedor Front-end utilizando React 
-<br/> &nbsp; Busco trabalhar como desenvolvedor Front-end Mobile utilizando React Native 
- 
- <br/> &nbsp;
- 
+<br/> &nbsp; Busco trabalhar como desenvolvedor Front-end Mobile utilizando React Native  
 <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
-<br/> 
 <br/> 💬  &nbsp; Sobre mim: Após 10 anos atuando como professor de Direito e Ciências Humanas em universidades e escolas decidi, no ano de 2019, mudar de carreira. Desde então, a programação web passou a ser parte da minha vida.
 <br/>
 <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-MarceloVasques-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelovqvd/)](https://www.linkedin.com/in/marcelovqvd/) 
