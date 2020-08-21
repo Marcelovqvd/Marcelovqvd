@@ -1,8 +1,7 @@
 ## Bem-vindo ao meu Github!! 👋
 Sou desenvolvedor Javascript :computer:
 
-<br/> &nbsp; Busco trabalhar como desenvolvedor Front-end utilizando React 
-<br/> &nbsp; Busco trabalhar como desenvolvedor Front-end Mobile utilizando React Native  
+<br/> &nbsp; Busco trabalhar como desenvolvedor Front-end utilizando React e também como desenvolvedor Mobile utilizando React Native  
 <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
 <br/> 💬  &nbsp; Sobre mim: Após 10 anos atuando como professor de Direito e Ciências Humanas em universidades e escolas decidi, no ano de 2019, mudar de carreira. Desde então, a programação web passou a ser parte da minha vida.
 <br/>
