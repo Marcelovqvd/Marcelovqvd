@@ -1,4 +1,4 @@
-## Bem-vindo ao meu Github!! 👋
+## Welcome to my Github!! 👋
 
 :computer: Javascript developer
 <br />
