@@ -1,6 +1,12 @@
 ## Welcome to my Github!! 👋
 
 :computer: Javascript developer
+
+
+<div align="center" />
+
+[![Micaelli GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelovqvd&count_private=true&show_icons=true&theme=midnight-purple&hide=prs,contribs)](https://github.com/marcelovqvd/github-readme-stats)
+
 <br />
 <br/> 💬  &nbsp; My main focus is working as a front-end developer with ReactJS.
 <br/>
