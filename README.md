@@ -1,6 +1,6 @@
 ## Welcome to my Github!! 👋
 
-:computer: I am currently a Javascript developer. 
+I am currently a Javascript developer. 
 
 My main focus is working as a front-end developer with ReactJS.
 
