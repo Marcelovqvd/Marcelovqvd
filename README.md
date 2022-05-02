@@ -2,7 +2,7 @@
 
 I am currently a Javascript developer. 
 
-My main focus is working as a developer with nodeJS and ReactJS.
+My main focus is working as a backe-end developer with nodeJS.
 
 Get in touch: 
 
