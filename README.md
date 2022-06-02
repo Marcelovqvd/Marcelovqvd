@@ -1,8 +1,8 @@
 ## Welcome to my Github!! 👋
 
-I am currently a Javascript developer. 
+My name is Marcelo. I am from São Paulo and I love coding, learning about science and listen to Rock and Roll.
 
-My main focus is working as a backe-end developer with nodeJS.
+My main focus is working as a back-end developer with nodeJS.
 
 Get in touch: 
 
