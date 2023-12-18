@@ -1,8 +1,8 @@
 ## Welcome to my Github!! 👋
 
-My name is Marcelo. I am from São Paulo and I love coding, learning about science and listen to Rock and Roll.
+Hey, I`m Marcelo. I am from São Paulo and I love coding, learning about science and listen to Rock and Roll.
 
-My main focus is working as a back-end developer with nodeJS.
+My main focus is working as a front-end developer with React.
 
 Get in touch: 
 
