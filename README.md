@@ -2,7 +2,7 @@
     <h1>Welcome to my Github!! 👋</h1>
 </div>
 <h3>Hi there, I am Marcelo! </h3>
-<p>I am a Full Stack Engineer based in São Paulo, Brazil. My main focus is to pursue a career as a full stack engineer working with Node.JS and React</p>
+<p>I am a Full Stack Engineer based in São Paulo, Brazil. My main focus is to pursue a career as a full stack engineer working with Node.JS and React.</p>
 <br>
 <div>
     <p>Get in touch!</p>
