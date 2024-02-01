@@ -1,21 +1,16 @@
-## Welcome to my Github!! 👋
+<h1>Welcome to my Github!! 👋</h1>
 
-<h1>Hi there, I am Marcelo! </h1>
-
-<h3>Full Stack Engineer 👨🏻‍💻</h3>
-<h3>I live in São Paulo, Brazil</h3>
-
-<h3>My main focus is to pursue a career as a full stack engineer working with Node.JS and React</h3>
-<br>
+<h3>Hi there, I am Marcelo! </h3>
+<p>I am a Full Stack Engineer based in São Paulo, Brazil. My main focus is to pursue a career as a full stack engineer working with Node.JS and React</p>
 <br>
 <div>
+    <p>Get in touch!</p>
     <div align="center" >
-        <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcelovqvd&show_icons=true&theme=dark"/>
-        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelovqvd&layout=compact&langs_count=7&theme=dark"/>
-    </div>
-    <div align="left" >
-        <h3><a href="https://www.linkedin.com/in/marcelovqvd-824348169/" target="_brank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_brank"/></a> => If you want to know me professionaly.</h3>
-        <h3><a href="https://api.whatsapp.com/send?phone=5511949989635" target="_brank" ><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_brank"/></a> => If you just want to chat.</h3>
+        <h3><a href="https://www.linkedin.com/in/marcelovqvd-824348169/" target="_brank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_brank"/></a> 
+        <a href="https://api.whatsapp.com/send?phone=5511949989635" target="_brank" ><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_brank"/></a>
+        <a href="mailto:marcelovqvd@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+        </h3>
     </div>
 
 </div>
