@@ -2,7 +2,7 @@
 
 <h1>Hi there, I am Marcelo! </h1>
 
-<h3>Full Stack Developer. 👨🏻‍💻</h3>
+<h3>Full Stack Engineer 👨🏻‍💻</h3>
 <h3>I live São Paulo, Brazil and I love coding.</h3>
 
 <h3>My main focus is working as a fullstack engineer with Node.JS and React./h3>
