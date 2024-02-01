@@ -5,7 +5,7 @@
 <h3>Full Stack Engineer 👨🏻‍💻</h3>
 <h3>I live in São Paulo, Brazil</h3>
 
-<h3>My main focus is working as a full stack engineer with Node.JS and React./h3>
+<h3>My main focus is to pursue a career as a full stack engineer working with Node.JS and React./h3>
 <br>
 <br>
 <div>
