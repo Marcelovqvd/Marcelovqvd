@@ -28,7 +28,7 @@
     <img height="40px" alt="NodeJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
     <img height="40px" alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
     <img height="40px" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
-    <img height="40px" alt="NestJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+    <img height="40px" alt="NestJs" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nestjs/nestjs-original-wordmark.svg" />
 </div>
 
 
